@@ -348,7 +348,7 @@
 		opts.gzip = window.__eaglercraftLoaderClient.gzip;
 		
 		initProgressScreen();
-		updateProgressScreen("Cracked by ubgultra. Now launching " + opts.name);
+		updateProgressScreen("Cracked by EagleUBG. Now launching " + opts.name);
 		updateProgressBar("Please wait...", "", -1);
 		
 		if(!window.indexedDB) {
